@@ -1,1 +1,2 @@
-# Cardiovascular_disease_detector:  https://shaipriyat.github.io/Cardiovascular_disease_detector/
+Cardiovascular_disease_detector
+Using HTML, CSS and JS
